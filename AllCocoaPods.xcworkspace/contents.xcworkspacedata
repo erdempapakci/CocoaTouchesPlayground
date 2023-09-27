@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:AXBrailleMap.playground">
+   </FileRef>
+   <FileRef
+      location = "group:UICollectionReusableView.playground">
+   </FileRef>
+   <FileRef
+      location = "group:UICollectionViewCell.playground">
+   </FileRef>
+   <FileRef
+      location = "group:UICollectionViewController.playground">
+   </FileRef>
+   <FileRef
+      location = "group:UITableViewCell.playground">
+   </FileRef>
+   <FileRef
+      location = "group:UITableViewController.playground">
+   </FileRef>
+   <FileRef
+      location = "group:UIViewController.playground">
+   </FileRef>
+   <FileRef
+      location = "group:UIView.playground">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/erdem/Desktop/CocoaPodsPlayground/NSObject.playground">
+   </FileRef>
+</Workspace>
