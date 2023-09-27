@@ -1,31 +1,195 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Workspace
    version = "1.0">
-   <FileRef
-      location = "group:AXBrailleMap.playground">
-   </FileRef>
-   <FileRef
-      location = "group:UICollectionReusableView.playground">
-   </FileRef>
-   <FileRef
-      location = "group:UICollectionViewCell.playground">
-   </FileRef>
-   <FileRef
-      location = "group:UICollectionViewController.playground">
-   </FileRef>
-   <FileRef
-      location = "group:UITableViewCell.playground">
-   </FileRef>
-   <FileRef
-      location = "group:UITableViewController.playground">
-   </FileRef>
-   <FileRef
-      location = "group:UIViewController.playground">
-   </FileRef>
-   <FileRef
-      location = "group:UIView.playground">
-   </FileRef>
-   <FileRef
-      location = "group:/Users/erdem/Desktop/CocoaPodsPlayground/NSObject.playground">
-   </FileRef>
+   <Group
+      location = "container:CI"
+      name = "CoreImage">
+      <FileRef
+         location = "group:CIAztecCodeDescriptor.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CIBarcodeDescriptor.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CIBlendKernel.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CIColor.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CIColorKernel.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CIContext.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CIDataMatrixCodeDescriptor.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CIDetector.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CIFaceFeature.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CIFeature.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CIFilter.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CIFilterGenerator.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CIFilterShape.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CIImage.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CIImageAccumulator.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CIImageProcessorKernel.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CIKernel.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CIRectangleFeature.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CIRenderDestination.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CITextFeature.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CIVector.playground">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:CAObjects"
+      name = "CoreAnimation">
+      <FileRef
+         location = "group:CAAnimation.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CAAnimationGroup.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CABasicAnimation.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CADisplayLink.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CAEAGLLayer.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CAEDRMetadata.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CAEmitterCell.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CAEmitterLayer.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CAGradientLayer.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CAKeyframeAnimation.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CALayer.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CAMediaTimingFunction.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CAMetalDisplayLink.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CAMetalLayer.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CAPropertyAnimation.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CARenderer.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CAReplicatorLayer.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CAScrollLayer.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CAShapeLayer.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CASpringAnimation.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CATextLayer.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CATiledLayer.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CATransaction.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CATransformLayer.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CATransition.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CAValueFunction.playground">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "NextStep">
+      <FileRef
+         location = "group:NSObject/NSObject.playground">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "UI">
+      <FileRef
+         location = "group:UIObjects/UICollectionReusableView.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UICollectionViewCell.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UICollectionViewController.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UITableViewCell.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UITableViewController.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIViewController.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIView.playground">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "Accessibility">
+      <FileRef
+         location = "group:AXObjects/AXCategoricalDataAxisDescriptor.playground">
+      </FileRef>
+      <FileRef
+         location = "group:AXObjects/AXBrailleMap.playground">
+      </FileRef>
+   </Group>
 </Workspace>

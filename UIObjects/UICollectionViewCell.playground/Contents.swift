@@ -15,6 +15,7 @@ import UIKit
 // Importing UIKit framework to use UICollectionViewCell.
 
 // Create a custom UICollectionViewCell subclass.
+
 class MyCollectionViewCell: UICollectionViewCell {
     // This class inherits from UICollectionViewCell, designed for displaying content in collection views.
 
