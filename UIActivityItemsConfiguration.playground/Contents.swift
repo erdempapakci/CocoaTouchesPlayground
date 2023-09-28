@@ -14,36 +14,5 @@ Here's what UIActivityItemsConfiguration represents and how it is typically used
 
 5. Multiple Representations: You can provide multiple representations of an item, such as plain text and attributed text, to accommodate different sharing options.
 
-Here's a basic example of how to create a UIActivityItemsConfiguration:
 */
 
-import UIKit
-
-// Create a UIActivityItemsConfiguration instance.
-let configuration = UIActivityItemsConfiguration(objects: ["Hello, World!", URL(string: "https://example.com")!])
-
-// Configure metadata for the first item.
-let textItem = configuration.object(at: 0)
-textItem.title = "Share Text"
-textItem.preview = "This is a simple text message."
-
-// Configure metadata for the second item.
-let urlItem = configuration.object(at: 1)
-urlItem.title = "Visit Website"
-urlItem.preview = "Example Website"
-urlItem.actions = [
-    UIAction(title: "Open", handler: { action in
-        // Handle the "Open" action here.
-    }),
-    UIAction(title: "Copy URL", handler: { action in
-        // Handle the "Copy URL" action here.
-    })
-]
-
-// Create a UIActivityViewController with the configuration.
-let activityViewController = UIActivityViewController(activityItemsConfiguration: configuration, completionHandler: { activityType, completed, returnedItems, activityError in
-    // Handle the sharing completion here.
-})
-
-// Present the UIActivityViewController.
-// self.present(activityViewController, animated: true, completion: nil)
