@@ -181,6 +181,84 @@
       <FileRef
          location = "group:UIObjects/UIView.playground">
       </FileRef>
+      <FileRef
+         location = "group:UIAcceleration.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIAccessibilityCustomAction.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIAccessibilityCustomRotor.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIAccessibilityElement.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIAccessibilityLocationDescriptor.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIAction.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIActionSheet.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIActivity.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIActivityIndicatorView.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIActivityItemProvider.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIActivityItemsConfiguration.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIActivityViewController.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIAlertAction.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIAlertController.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIAlertView.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIApplication.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIApplicationShortcutItem.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIAttachmentBehavior.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIBackgroundConfiguration.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIBandSelectionInteraction.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIBarAppearance.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIBarButtonItem.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIBarButtonItemAppearance.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIBarButtonItemGroup.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIBarButtonItemStateAppearance.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIBarItem.playground">
+      </FileRef>
    </Group>
    <Group
       location = "container:"
