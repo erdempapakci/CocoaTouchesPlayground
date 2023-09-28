@@ -259,6 +259,147 @@
       <FileRef
          location = "group:UIBarItem.playground">
       </FileRef>
+      <FileRef
+         location = "group:UIBezierPath.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIBlurEffect.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIButton.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIButtonConfiguration.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UICalendarSelection.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UICalendarSelectionMultiDate.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UICalendarSelectionSingleDate.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UICalendarView.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UICalendarViewDecoration.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UICellAccessory.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UICellAccessoryCheckmark.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UICellAccessoryCustomView.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UICellAccessoryDelete.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UICellAccessoryDetail.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UICellAccessoryDisclosureIndicator.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UICellAccessoryInsert.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UICellAccessoryLabel.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UICellAccessoryMultiselect.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UICellAccessoryOutlineDisclosure.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UICellAccessoryPopUpMenu.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UICellAccessoryReorder.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UICellConfigurationState.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UICloudSharingController.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UICollectionLayoutListConfiguration.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UICollectionLayoutSectionOrthogonalScrollingProperties.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UICollectionViewCellRegistration.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UICollectionViewCompositionalLayout.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UICollectionViewDiffableDataSource.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UICollectionViewDiffableDataSourceReorderingHandlers.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UICollectionViewDiffableDataSourceSectionSnapshotHandlers.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UICollectionViewDropPlaceholder.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UICollectionViewDropProposal.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UICollectionViewFlowLayout.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UICollectionViewFlowLayoutInvalidationContext.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UICollectionViewFocusUpdateContext.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UICollectionViewLayout.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UICollectionViewLayoutAttributes.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UICollectionViewLayoutInvalidationContext.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UICollectionViewListCell.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UICollectionViewPlaceholder.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UICollectionViewSupplementaryRegistration.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UICollectionViewTransitionLayout.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UICollectionViewUpdateItem.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UICollisionBehavior.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIColor.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIColorPickerViewController.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIColorWell.playground">
+      </FileRef>
    </Group>
    <Group
       location = "container:"

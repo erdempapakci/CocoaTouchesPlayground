@@ -30,7 +30,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>8</integer>
+			<integer>40</integer>
 		</dict>
 		<key>AXCategoricalDataAxisDescriptor (Playground) 1.xcscheme</key>
 		<dict>
@@ -58,7 +58,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>27</integer>
+			<integer>25</integer>
 		</dict>
 		<key>CAAnimation (Playground) 1.xcscheme</key>
 		<dict>
@@ -86,7 +86,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>26</integer>
+			<integer>19</integer>
 		</dict>
 		<key>CAAnimationGroup (Playground) 1.xcscheme</key>
 		<dict>
@@ -114,7 +114,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>28</integer>
+			<integer>53</integer>
 		</dict>
 		<key>CABasicAnimation (Playground) 1.xcscheme</key>
 		<dict>
@@ -142,7 +142,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>47</integer>
+			<integer>11</integer>
 		</dict>
 		<key>CADisplayLink (Playground) 1.xcscheme</key>
 		<dict>
@@ -170,7 +170,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>39</integer>
+			<integer>12</integer>
 		</dict>
 		<key>CAEAGLLayer (Playground) 1.xcscheme</key>
 		<dict>
@@ -198,7 +198,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>48</integer>
+			<integer>76</integer>
 		</dict>
 		<key>CAEDRMetadata (Playground) 1.xcscheme</key>
 		<dict>
@@ -226,7 +226,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>49</integer>
+			<integer>44</integer>
 		</dict>
 		<key>CAEmitterCell (Playground) 1.xcscheme</key>
 		<dict>
@@ -254,7 +254,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>34</integer>
+			<integer>62</integer>
 		</dict>
 		<key>CAEmitterLayer (Playground) 1.xcscheme</key>
 		<dict>
@@ -282,7 +282,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>15</integer>
+			<integer>20</integer>
 		</dict>
 		<key>CAGradientLayer (Playground) 1.xcscheme</key>
 		<dict>
@@ -310,7 +310,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>36</integer>
+			<integer>7</integer>
 		</dict>
 		<key>CAKeyframeAnimation (Playground) 1.xcscheme</key>
 		<dict>
@@ -338,7 +338,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>11</integer>
+			<integer>82</integer>
 		</dict>
 		<key>CALayer (Playground) 1.xcscheme</key>
 		<dict>
@@ -366,7 +366,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>22</integer>
+			<integer>69</integer>
 		</dict>
 		<key>CAMediaTimingFunction (Playground) 1.xcscheme</key>
 		<dict>
@@ -394,7 +394,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>55</integer>
+			<integer>67</integer>
 		</dict>
 		<key>CAMetalDisplayLink (Playground) 1.xcscheme</key>
 		<dict>
@@ -422,7 +422,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>18</integer>
+			<integer>81</integer>
 		</dict>
 		<key>CAMetalLayer (Playground) 1.xcscheme</key>
 		<dict>
@@ -450,7 +450,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>10</integer>
+			<integer>55</integer>
 		</dict>
 		<key>CAPropertyAnimation (Playground) 1.xcscheme</key>
 		<dict>
@@ -478,7 +478,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>2</integer>
+			<integer>54</integer>
 		</dict>
 		<key>CARenderer (Playground) 1.xcscheme</key>
 		<dict>
@@ -506,7 +506,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>17</integer>
+			<integer>56</integer>
 		</dict>
 		<key>CAReplicatorLayer (Playground) 1.xcscheme</key>
 		<dict>
@@ -534,7 +534,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>30</integer>
+			<integer>27</integer>
 		</dict>
 		<key>CAScrollLayer (Playground) 1.xcscheme</key>
 		<dict>
@@ -562,7 +562,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>46</integer>
+			<integer>29</integer>
 		</dict>
 		<key>CAShapeLayer (Playground) 1.xcscheme</key>
 		<dict>
@@ -590,7 +590,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>9</integer>
+			<integer>74</integer>
 		</dict>
 		<key>CASpringAnimation (Playground) 1.xcscheme</key>
 		<dict>
@@ -618,7 +618,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>44</integer>
+			<integer>79</integer>
 		</dict>
 		<key>CATextLayer (Playground) 1.xcscheme</key>
 		<dict>
@@ -646,7 +646,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>13</integer>
+			<integer>0</integer>
 		</dict>
 		<key>CATiledLayer (Playground) 1.xcscheme</key>
 		<dict>
@@ -674,7 +674,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>51</integer>
+			<integer>38</integer>
 		</dict>
 		<key>CATransaction (Playground) 1.xcscheme</key>
 		<dict>
@@ -702,7 +702,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>4</integer>
+			<integer>41</integer>
 		</dict>
 		<key>CATransformLayer (Playground) 1.xcscheme</key>
 		<dict>
@@ -730,7 +730,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>33</integer>
+			<integer>46</integer>
 		</dict>
 		<key>CATransition (Playground) 1.xcscheme</key>
 		<dict>
@@ -758,7 +758,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>12</integer>
+			<integer>37</integer>
 		</dict>
 		<key>CAValueFunction (Playground) 1.xcscheme</key>
 		<dict>
@@ -786,7 +786,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>16</integer>
+			<integer>17</integer>
 		</dict>
 		<key>CIAztecCodeDescriptor (Playground) 1.xcscheme</key>
 		<dict>
@@ -814,7 +814,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>25</integer>
+			<integer>15</integer>
 		</dict>
 		<key>CIBarcodeDescriptor (Playground) 1.xcscheme</key>
 		<dict>
@@ -842,7 +842,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>4</integer>
 		</dict>
 		<key>CIBlendKernel (Playground) 1.xcscheme</key>
 		<dict>
@@ -870,7 +870,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>20</integer>
+			<integer>14</integer>
 		</dict>
 		<key>CIColor (Playground) 1.xcscheme</key>
 		<dict>
@@ -898,7 +898,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>29</integer>
+			<integer>31</integer>
 		</dict>
 		<key>CIColorKernel (Playground) 1.xcscheme</key>
 		<dict>
@@ -926,7 +926,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>31</integer>
+			<integer>78</integer>
 		</dict>
 		<key>CIContext (Playground) 1.xcscheme</key>
 		<dict>
@@ -954,7 +954,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>24</integer>
+			<integer>68</integer>
 		</dict>
 		<key>CIDataMatrixCodeDescriptor (Playground) 1.xcscheme</key>
 		<dict>
@@ -982,7 +982,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>43</integer>
+			<integer>3</integer>
 		</dict>
 		<key>CIDetector (Playground) 1.xcscheme</key>
 		<dict>
@@ -1010,7 +1010,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>14</integer>
+			<integer>36</integer>
 		</dict>
 		<key>CIFaceFeature (Playground) 1.xcscheme</key>
 		<dict>
@@ -1038,7 +1038,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>37</integer>
+			<integer>13</integer>
 		</dict>
 		<key>CIFeature (Playground) 1.xcscheme</key>
 		<dict>
@@ -1066,7 +1066,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>7</integer>
+			<integer>2</integer>
 		</dict>
 		<key>CIFilter (Playground) 1.xcscheme</key>
 		<dict>
@@ -1094,7 +1094,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>21</integer>
+			<integer>8</integer>
 		</dict>
 		<key>CIFilterGenerator (Playground) 1.xcscheme</key>
 		<dict>
@@ -1122,7 +1122,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>56</integer>
+			<integer>57</integer>
 		</dict>
 		<key>CIFilterShape (Playground) 1.xcscheme</key>
 		<dict>
@@ -1150,7 +1150,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>52</integer>
+			<integer>73</integer>
 		</dict>
 		<key>CIImage (Playground) 1.xcscheme</key>
 		<dict>
@@ -1178,7 +1178,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>3</integer>
+			<integer>6</integer>
 		</dict>
 		<key>CIImageAccumulator (Playground) 1.xcscheme</key>
 		<dict>
@@ -1206,7 +1206,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>53</integer>
+			<integer>32</integer>
 		</dict>
 		<key>CIImageProcessorKernel (Playground) 1.xcscheme</key>
 		<dict>
@@ -1234,7 +1234,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>38</integer>
+			<integer>10</integer>
 		</dict>
 		<key>CIKernel (Playground) 1.xcscheme</key>
 		<dict>
@@ -1262,7 +1262,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>41</integer>
+			<integer>24</integer>
 		</dict>
 		<key>CIRectangleFeature (Playground) 1.xcscheme</key>
 		<dict>
@@ -1290,7 +1290,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>32</integer>
+			<integer>77</integer>
 		</dict>
 		<key>CIRenderDestination (Playground) 1.xcscheme</key>
 		<dict>
@@ -1318,7 +1318,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>40</integer>
+			<integer>30</integer>
 		</dict>
 		<key>CITextFeature (Playground) 1.xcscheme</key>
 		<dict>
@@ -1346,7 +1346,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>35</integer>
+			<integer>47</integer>
 		</dict>
 		<key>CIVector (Playground) 1.xcscheme</key>
 		<dict>
@@ -1374,7 +1374,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>5</integer>
+			<integer>65</integer>
 		</dict>
 		<key>NSObject (Playground) 1.xcscheme</key>
 		<dict>
@@ -1402,7 +1402,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>54</integer>
+			<integer>21</integer>
 		</dict>
 		<key>NSObjectPlayground (Playground) 1.xcscheme</key>
 		<dict>
@@ -1444,7 +1444,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>57</integer>
+			<integer>33</integer>
 		</dict>
 		<key>UIAccessibilityCustomAction (Playground) 1.xcscheme</key>
 		<dict>
@@ -1465,7 +1465,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>60</integer>
+			<integer>58</integer>
 		</dict>
 		<key>UIAccessibilityCustomRotor (Playground) 1.xcscheme</key>
 		<dict>
@@ -1486,7 +1486,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>63</integer>
+			<integer>72</integer>
 		</dict>
 		<key>UIAccessibilityElement (Playground) 1.xcscheme</key>
 		<dict>
@@ -1507,7 +1507,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>66</integer>
+			<integer>48</integer>
 		</dict>
 		<key>UIAccessibilityLocationDescriptor (Playground) 1.xcscheme</key>
 		<dict>
@@ -1528,7 +1528,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>69</integer>
+			<integer>61</integer>
 		</dict>
 		<key>UIAction (Playground) 1.xcscheme</key>
 		<dict>
@@ -1549,7 +1549,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>72</integer>
+			<integer>66</integer>
 		</dict>
 		<key>UIActionSheet (Playground) 1.xcscheme</key>
 		<dict>
@@ -1570,7 +1570,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>75</integer>
+			<integer>42</integer>
 		</dict>
 		<key>UIActivity (Playground) 1.xcscheme</key>
 		<dict>
@@ -1591,7 +1591,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>78</integer>
+			<integer>34</integer>
 		</dict>
 		<key>UIActivityIndicatorView (Playground) 1.xcscheme</key>
 		<dict>
@@ -1612,7 +1612,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>81</integer>
+			<integer>59</integer>
 		</dict>
 		<key>UIActivityItemProvider (Playground) 1.xcscheme</key>
 		<dict>
@@ -1633,7 +1633,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>84</integer>
+			<integer>9</integer>
 		</dict>
 		<key>UIActivityItemsConfiguration (Playground) 1.xcscheme</key>
 		<dict>
@@ -1654,7 +1654,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>87</integer>
+			<integer>63</integer>
 		</dict>
 		<key>UIActivityViewController (Playground) 1.xcscheme</key>
 		<dict>
@@ -1675,7 +1675,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>90</integer>
+			<integer>22</integer>
 		</dict>
 		<key>UIAlertAction (Playground) 1.xcscheme</key>
 		<dict>
@@ -1696,7 +1696,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>93</integer>
+			<integer>75</integer>
 		</dict>
 		<key>UIAlertController (Playground) 1.xcscheme</key>
 		<dict>
@@ -1717,7 +1717,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>96</integer>
+			<integer>1</integer>
 		</dict>
 		<key>UIAlertView (Playground) 1.xcscheme</key>
 		<dict>
@@ -1738,7 +1738,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>99</integer>
+			<integer>26</integer>
 		</dict>
 		<key>UIApplication (Playground) 1.xcscheme</key>
 		<dict>
@@ -1759,7 +1759,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>102</integer>
+			<integer>39</integer>
 		</dict>
 		<key>UIApplicationShortcutItem (Playground) 1.xcscheme</key>
 		<dict>
@@ -1780,7 +1780,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>105</integer>
+			<integer>49</integer>
 		</dict>
 		<key>UIAttachmentBehavior (Playground) 1.xcscheme</key>
 		<dict>
@@ -1801,7 +1801,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>108</integer>
+			<integer>64</integer>
 		</dict>
 		<key>UIBackgroundConfiguration (Playground) 1.xcscheme</key>
 		<dict>
@@ -1822,7 +1822,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>111</integer>
+			<integer>43</integer>
 		</dict>
 		<key>UIBandSelectionInteraction (Playground) 1.xcscheme</key>
 		<dict>
@@ -1843,7 +1843,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>114</integer>
+			<integer>60</integer>
 		</dict>
 		<key>UIBarAppearance (Playground) 1.xcscheme</key>
 		<dict>
@@ -1864,7 +1864,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>117</integer>
+			<integer>45</integer>
 		</dict>
 		<key>UIBarButtonItem (Playground) 1.xcscheme</key>
 		<dict>
@@ -1885,7 +1885,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>120</integer>
+			<integer>51</integer>
 		</dict>
 		<key>UIBarButtonItemAppearance (Playground) 1.xcscheme</key>
 		<dict>
@@ -1906,7 +1906,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>123</integer>
+			<integer>16</integer>
 		</dict>
 		<key>UIBarButtonItemGroup (Playground) 1.xcscheme</key>
 		<dict>
@@ -1927,7 +1927,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>126</integer>
+			<integer>50</integer>
 		</dict>
 		<key>UIBarButtonItemStateAppearance (Playground) 1.xcscheme</key>
 		<dict>
@@ -1948,7 +1948,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>129</integer>
+			<integer>71</integer>
 		</dict>
 		<key>UIBarItem (Playground) 1.xcscheme</key>
 		<dict>
@@ -1969,7 +1969,532 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
+			<integer>52</integer>
+		</dict>
+		<key>UIBezierPath (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>84</integer>
+		</dict>
+		<key>UIBezierPath (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>85</integer>
+		</dict>
+		<key>UIBezierPath (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>83</integer>
+		</dict>
+		<key>UIBlurEffect (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>87</integer>
+		</dict>
+		<key>UIBlurEffect (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>88</integer>
+		</dict>
+		<key>UIBlurEffect (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>86</integer>
+		</dict>
+		<key>UIButton (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>90</integer>
+		</dict>
+		<key>UIButton (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>91</integer>
+		</dict>
+		<key>UIButton (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>89</integer>
+		</dict>
+		<key>UIButtonConfiguration (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>93</integer>
+		</dict>
+		<key>UIButtonConfiguration (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>94</integer>
+		</dict>
+		<key>UIButtonConfiguration (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>92</integer>
+		</dict>
+		<key>UICalendarSelection (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>96</integer>
+		</dict>
+		<key>UICalendarSelection (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>97</integer>
+		</dict>
+		<key>UICalendarSelection (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>95</integer>
+		</dict>
+		<key>UICalendarSelectionMultiDate (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>99</integer>
+		</dict>
+		<key>UICalendarSelectionMultiDate (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>100</integer>
+		</dict>
+		<key>UICalendarSelectionMultiDate (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>98</integer>
+		</dict>
+		<key>UICalendarSelectionSingleDate (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>102</integer>
+		</dict>
+		<key>UICalendarSelectionSingleDate (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>103</integer>
+		</dict>
+		<key>UICalendarSelectionSingleDate (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>101</integer>
+		</dict>
+		<key>UICalendarView (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>105</integer>
+		</dict>
+		<key>UICalendarView (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>106</integer>
+		</dict>
+		<key>UICalendarView (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>104</integer>
+		</dict>
+		<key>UICalendarViewDecoration (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>108</integer>
+		</dict>
+		<key>UICalendarViewDecoration (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>109</integer>
+		</dict>
+		<key>UICalendarViewDecoration (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>107</integer>
+		</dict>
+		<key>UICellAccessory (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>111</integer>
+		</dict>
+		<key>UICellAccessory (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>112</integer>
+		</dict>
+		<key>UICellAccessory (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>110</integer>
+		</dict>
+		<key>UICellAccessoryCheckmark (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>114</integer>
+		</dict>
+		<key>UICellAccessoryCheckmark (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>115</integer>
+		</dict>
+		<key>UICellAccessoryCheckmark (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>113</integer>
+		</dict>
+		<key>UICellAccessoryCustomView (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>117</integer>
+		</dict>
+		<key>UICellAccessoryCustomView (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>118</integer>
+		</dict>
+		<key>UICellAccessoryCustomView (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>116</integer>
+		</dict>
+		<key>UICellAccessoryDelete (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>120</integer>
+		</dict>
+		<key>UICellAccessoryDelete (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>121</integer>
+		</dict>
+		<key>UICellAccessoryDelete (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>119</integer>
+		</dict>
+		<key>UICellAccessoryDetail (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>123</integer>
+		</dict>
+		<key>UICellAccessoryDetail (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>124</integer>
+		</dict>
+		<key>UICellAccessoryDetail (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>122</integer>
+		</dict>
+		<key>UICellAccessoryDisclosureIndicator (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>126</integer>
+		</dict>
+		<key>UICellAccessoryDisclosureIndicator (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>127</integer>
+		</dict>
+		<key>UICellAccessoryDisclosureIndicator (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>125</integer>
+		</dict>
+		<key>UICellAccessoryInsert (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>129</integer>
+		</dict>
+		<key>UICellAccessoryInsert (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>130</integer>
+		</dict>
+		<key>UICellAccessoryInsert (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>128</integer>
+		</dict>
+		<key>UICellAccessoryLabel (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
 			<integer>132</integer>
+		</dict>
+		<key>UICellAccessoryLabel (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>133</integer>
+		</dict>
+		<key>UICellAccessoryLabel (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>131</integer>
+		</dict>
+		<key>UICellAccessoryMultiselect (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>135</integer>
+		</dict>
+		<key>UICellAccessoryMultiselect (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>136</integer>
+		</dict>
+		<key>UICellAccessoryMultiselect (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>134</integer>
+		</dict>
+		<key>UICellAccessoryOutlineDisclosure (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>138</integer>
+		</dict>
+		<key>UICellAccessoryOutlineDisclosure (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>139</integer>
+		</dict>
+		<key>UICellAccessoryOutlineDisclosure (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>137</integer>
+		</dict>
+		<key>UICellAccessoryPopUpMenu (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>141</integer>
+		</dict>
+		<key>UICellAccessoryPopUpMenu (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>142</integer>
+		</dict>
+		<key>UICellAccessoryPopUpMenu (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>140</integer>
+		</dict>
+		<key>UICellAccessoryReorder (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>144</integer>
+		</dict>
+		<key>UICellAccessoryReorder (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>145</integer>
+		</dict>
+		<key>UICellAccessoryReorder (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>143</integer>
+		</dict>
+		<key>UICellConfigurationState (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>147</integer>
+		</dict>
+		<key>UICellConfigurationState (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>148</integer>
+		</dict>
+		<key>UICellConfigurationState (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>146</integer>
+		</dict>
+		<key>UICloudSharingController (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>150</integer>
+		</dict>
+		<key>UICloudSharingController (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>151</integer>
+		</dict>
+		<key>UICloudSharingController (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>149</integer>
+		</dict>
+		<key>UICollectionLayoutListConfiguration (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>153</integer>
+		</dict>
+		<key>UICollectionLayoutListConfiguration (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>154</integer>
+		</dict>
+		<key>UICollectionLayoutListConfiguration (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>152</integer>
+		</dict>
+		<key>UICollectionLayoutSectionOrthogonalScrollingProperties (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>156</integer>
+		</dict>
+		<key>UICollectionLayoutSectionOrthogonalScrollingProperties (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>157</integer>
+		</dict>
+		<key>UICollectionLayoutSectionOrthogonalScrollingProperties (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>155</integer>
 		</dict>
 		<key>UICollectionReusableView (Playground) 1.xcscheme</key>
 		<dict>
@@ -1997,7 +2522,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>6</integer>
+			<integer>28</integer>
 		</dict>
 		<key>UICollectionViewCell (Playground) 1.xcscheme</key>
 		<dict>
@@ -2025,7 +2550,49 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>1</integer>
+			<integer>35</integer>
+		</dict>
+		<key>UICollectionViewCellRegistration (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>159</integer>
+		</dict>
+		<key>UICollectionViewCellRegistration (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>160</integer>
+		</dict>
+		<key>UICollectionViewCellRegistration (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>158</integer>
+		</dict>
+		<key>UICollectionViewCompositionalLayout (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>162</integer>
+		</dict>
+		<key>UICollectionViewCompositionalLayout (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>163</integer>
+		</dict>
+		<key>UICollectionViewCompositionalLayout (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>161</integer>
 		</dict>
 		<key>UICollectionViewController (Playground) 1.xcscheme</key>
 		<dict>
@@ -2053,7 +2620,427 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>45</integer>
+			<integer>18</integer>
+		</dict>
+		<key>UICollectionViewDiffableDataSource (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>165</integer>
+		</dict>
+		<key>UICollectionViewDiffableDataSource (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>166</integer>
+		</dict>
+		<key>UICollectionViewDiffableDataSource (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>164</integer>
+		</dict>
+		<key>UICollectionViewDiffableDataSourceReorderingHandlers (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>168</integer>
+		</dict>
+		<key>UICollectionViewDiffableDataSourceReorderingHandlers (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>169</integer>
+		</dict>
+		<key>UICollectionViewDiffableDataSourceReorderingHandlers (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>167</integer>
+		</dict>
+		<key>UICollectionViewDiffableDataSourceSectionSnapshotHandlers (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>171</integer>
+		</dict>
+		<key>UICollectionViewDiffableDataSourceSectionSnapshotHandlers (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>172</integer>
+		</dict>
+		<key>UICollectionViewDiffableDataSourceSectionSnapshotHandlers (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>170</integer>
+		</dict>
+		<key>UICollectionViewDropPlaceholder (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>174</integer>
+		</dict>
+		<key>UICollectionViewDropPlaceholder (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>175</integer>
+		</dict>
+		<key>UICollectionViewDropPlaceholder (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>173</integer>
+		</dict>
+		<key>UICollectionViewDropProposal (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>177</integer>
+		</dict>
+		<key>UICollectionViewDropProposal (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>178</integer>
+		</dict>
+		<key>UICollectionViewDropProposal (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>176</integer>
+		</dict>
+		<key>UICollectionViewFlowLayout (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>180</integer>
+		</dict>
+		<key>UICollectionViewFlowLayout (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>181</integer>
+		</dict>
+		<key>UICollectionViewFlowLayout (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>179</integer>
+		</dict>
+		<key>UICollectionViewFlowLayoutInvalidationContext (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>183</integer>
+		</dict>
+		<key>UICollectionViewFlowLayoutInvalidationContext (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>184</integer>
+		</dict>
+		<key>UICollectionViewFlowLayoutInvalidationContext (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>182</integer>
+		</dict>
+		<key>UICollectionViewFocusUpdateContext (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>186</integer>
+		</dict>
+		<key>UICollectionViewFocusUpdateContext (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>187</integer>
+		</dict>
+		<key>UICollectionViewFocusUpdateContext (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>185</integer>
+		</dict>
+		<key>UICollectionViewLayout (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>189</integer>
+		</dict>
+		<key>UICollectionViewLayout (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>190</integer>
+		</dict>
+		<key>UICollectionViewLayout (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>188</integer>
+		</dict>
+		<key>UICollectionViewLayoutAttributes (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>192</integer>
+		</dict>
+		<key>UICollectionViewLayoutAttributes (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>193</integer>
+		</dict>
+		<key>UICollectionViewLayoutAttributes (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>191</integer>
+		</dict>
+		<key>UICollectionViewLayoutInvalidationContext (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>195</integer>
+		</dict>
+		<key>UICollectionViewLayoutInvalidationContext (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>196</integer>
+		</dict>
+		<key>UICollectionViewLayoutInvalidationContext (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>194</integer>
+		</dict>
+		<key>UICollectionViewListCell (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>198</integer>
+		</dict>
+		<key>UICollectionViewListCell (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>199</integer>
+		</dict>
+		<key>UICollectionViewListCell (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>197</integer>
+		</dict>
+		<key>UICollectionViewPlaceholder (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>201</integer>
+		</dict>
+		<key>UICollectionViewPlaceholder (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>202</integer>
+		</dict>
+		<key>UICollectionViewPlaceholder (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>200</integer>
+		</dict>
+		<key>UICollectionViewSupplementaryRegistration (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>204</integer>
+		</dict>
+		<key>UICollectionViewSupplementaryRegistration (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>205</integer>
+		</dict>
+		<key>UICollectionViewSupplementaryRegistration (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>203</integer>
+		</dict>
+		<key>UICollectionViewTransitionLayout (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>207</integer>
+		</dict>
+		<key>UICollectionViewTransitionLayout (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>208</integer>
+		</dict>
+		<key>UICollectionViewTransitionLayout (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>206</integer>
+		</dict>
+		<key>UICollectionViewUpdateItem (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>210</integer>
+		</dict>
+		<key>UICollectionViewUpdateItem (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>211</integer>
+		</dict>
+		<key>UICollectionViewUpdateItem (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>209</integer>
+		</dict>
+		<key>UICollisionBehavior (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>213</integer>
+		</dict>
+		<key>UICollisionBehavior (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>214</integer>
+		</dict>
+		<key>UICollisionBehavior (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>212</integer>
+		</dict>
+		<key>UIColor (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>216</integer>
+		</dict>
+		<key>UIColor (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>217</integer>
+		</dict>
+		<key>UIColor (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>215</integer>
+		</dict>
+		<key>UIColorPickerViewController (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>219</integer>
+		</dict>
+		<key>UIColorPickerViewController (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>220</integer>
+		</dict>
+		<key>UIColorPickerViewController (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>218</integer>
+		</dict>
+		<key>UIColorWell (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>222</integer>
+		</dict>
+		<key>UIColorWell (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>223</integer>
+		</dict>
+		<key>UIColorWell (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>221</integer>
 		</dict>
 		<key>UITableViewCell (Playground) 1.xcscheme</key>
 		<dict>
@@ -2081,7 +3068,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>42</integer>
+			<integer>80</integer>
 		</dict>
 		<key>UITableViewController (Playground) 1.xcscheme</key>
 		<dict>
@@ -2109,7 +3096,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>23</integer>
+			<integer>70</integer>
 		</dict>
 		<key>UIView (Playground) 1.xcscheme</key>
 		<dict>
@@ -2137,7 +3124,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>50</integer>
+			<integer>23</integer>
 		</dict>
 		<key>UIViewController (Playground) 1.xcscheme</key>
 		<dict>
@@ -2165,7 +3152,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>19</integer>
+			<integer>5</integer>
 		</dict>
 		<key>UIViewPlaygorund (Playground) 1.xcscheme</key>
 		<dict>
