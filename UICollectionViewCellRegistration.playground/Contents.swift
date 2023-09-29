@@ -1,3 +1,8 @@
 import UIKit
 
-var greeting = "Hello, playground"
+
+//
+//let simpleConfig = UICollectionView.CellRegistration<UICollectionView, String> { (cell, indexPath, model) in
+//  cell.label.text = model
+//
+//}
