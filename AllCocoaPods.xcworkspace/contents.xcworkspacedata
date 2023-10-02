@@ -400,6 +400,159 @@
       <FileRef
          location = "group:UIColorWell.playground">
       </FileRef>
+      <FileRef
+         location = "group:UICommand.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UICommandAlternate.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIContentUnavailableButtonProperties.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIContentUnavailableConfiguration.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIContentUnavailableImageProperties.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIContextMenuConfiguration.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIContextMenuInteraction.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIContextualAction.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIControl.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UICubicTimingParameters.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIDatePicker.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIDeferredMenuElement.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIDevice.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIDictationPhrase.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIDocument.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIDocumentBrowserAction.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIDocumentBrowserTransitionController.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIDocumentBrowserViewController.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIDocumentInteractionController.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIDocumentMenuViewController.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIDocumentPickerExtensionViewController.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIDocumentPickerViewController.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIDocumentProperties.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIDocumentViewController.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIDragInteraction.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIDragItem.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIDragPreview.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIDropInteraction.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIDropProposal.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIDynamicAnimator.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIDynamicBehavior.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIDynamicItemBehavior.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIEditMenuConfiguration.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIEditMenuInteraction.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIEvent.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIEventAttribution.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIEventAttributionView.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIFeedbackGenerator.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIFieldBehavior.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIFindInteraction.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIFindSession.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIFocusAnimationCoordinator.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIFocusDebugger.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIFocusEffect.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIFocusGuide.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIFocusUpdateContext.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIFont.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIFontDescriptor.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIFontMetrics.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIFontPickerViewController.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIGestureRecognizer.playground">
+      </FileRef>
    </Group>
    <Group
       location = "container:"
