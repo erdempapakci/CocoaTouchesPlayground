@@ -407,13 +407,7 @@
          location = "group:UICommandAlternate.playground">
       </FileRef>
       <FileRef
-         location = "group:UIContentUnavailableButtonProperties.playground">
-      </FileRef>
-      <FileRef
-         location = "group:UIContentUnavailableConfiguration.playground">
-      </FileRef>
-      <FileRef
-         location = "group:UIContentUnavailableImageProperties.playground">
+         location = "group:/Users/erdem/Desktop/CocoaPodsPlayground/UIContentUnavailableView.playground">
       </FileRef>
       <FileRef
          location = "group:UIContextMenuConfiguration.playground">
