@@ -485,12 +485,6 @@
          location = "group:UIDynamicAnimator.playground">
       </FileRef>
       <FileRef
-         location = "group:UIDynamicBehavior.playground">
-      </FileRef>
-      <FileRef
-         location = "group:UIDynamicItemBehavior.playground">
-      </FileRef>
-      <FileRef
          location = "group:UIEditMenuConfiguration.playground">
       </FileRef>
       <FileRef
@@ -513,9 +507,6 @@
       </FileRef>
       <FileRef
          location = "group:UIFindInteraction.playground">
-      </FileRef>
-      <FileRef
-         location = "group:UIFindSession.playground">
       </FileRef>
       <FileRef
          location = "group:UIFocusAnimationCoordinator.playground">
