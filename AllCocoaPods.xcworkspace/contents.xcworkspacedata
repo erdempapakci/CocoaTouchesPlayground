@@ -538,6 +538,111 @@
       <FileRef
          location = "group:UIGestureRecognizer.playground">
       </FileRef>
+      <FileRef
+         location = "group:UIGraphicsImageRenderer.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIGravityBehavior.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIHoverLiftEffect.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIImage.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIImageAsset.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIImageConfiguration.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIImagePickerController.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIImageReader.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIImageView.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIIndirectScribbleInteraction.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIInputView.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIInputViewController.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIInterpolatingMotionEffect.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIKey.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIKeyboardLayoutGuide.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIKeyCommand.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UILabel.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UILargeContentViewerInteraction.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UILayoutGuide.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UILexicon.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIListContentView.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UILocalNotification.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UILongPressGestureRecognizer.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIManagedDocument.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIMarkupTextPrintFormatter.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIMenu.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIMenuController.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIMenuElement.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIMenuItem.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIMotionEffect.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIMutableApplicationShortcutItem.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UINavigationBar.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UINavigationController.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UINavigationItem.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIOpenURLContext.playground">
+      </FileRef>
    </Group>
    <Group
       location = "container:"
