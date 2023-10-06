@@ -629,9 +629,6 @@
          location = "group:UIMotionEffect.playground">
       </FileRef>
       <FileRef
-         location = "group:UIMutableApplicationShortcutItem.playground">
-      </FileRef>
-      <FileRef
          location = "group:UINavigationBar.playground">
       </FileRef>
       <FileRef
@@ -642,6 +639,114 @@
       </FileRef>
       <FileRef
          location = "group:UIOpenURLContext.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIPageControl.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIPageControlProgress.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIPageViewController.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIPanGestureRecognizer.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIPasteboard.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIPasteConfiguration.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIPasteControl.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIPasteControlConfiguration.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIPencilInteraction.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIPercentDrivenInteractiveTransition.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIPickerView.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIPinchGestureRecognizer.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIPointerAccessory.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIPointerEffect.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIPointerHighlightEffect.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIPointerHoverEffect.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIPointerInteraction.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIPointerLiftEffect.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIPointerLockState.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIPointerRegion.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIPointerRegionRequest.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIPointerShape.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIPointerStyle.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIPopoverBackgroundView.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIPopoverController.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIPopoverPresentationController.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIPresentationController.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIPress.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIPressesEvent.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIPreviewAction.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIPrinter.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIPrinterPickerController.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIPrintInteractionController.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIPrintPaper.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIPrintServiceExtension.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIProgressView.playground">
       </FileRef>
    </Group>
    <Group
