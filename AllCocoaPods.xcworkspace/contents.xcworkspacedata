@@ -722,12 +722,6 @@
          location = "group:UIPresentationController.playground">
       </FileRef>
       <FileRef
-         location = "group:UIPress.playground">
-      </FileRef>
-      <FileRef
-         location = "group:UIPressesEvent.playground">
-      </FileRef>
-      <FileRef
          location = "group:UIPreviewAction.playground">
       </FileRef>
       <FileRef
