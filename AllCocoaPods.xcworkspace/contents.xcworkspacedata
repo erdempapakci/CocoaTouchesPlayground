@@ -800,9 +800,6 @@
          location = "group:UISearchBar.playground">
       </FileRef>
       <FileRef
-         location = "group:UISearchContainerViewController.playground">
-      </FileRef>
-      <FileRef
          location = "group:UISearchController.playground">
       </FileRef>
       <FileRef
