@@ -896,9 +896,6 @@
          location = "group:UITextField.playground">
       </FileRef>
       <FileRef
-         location = "group:UITextFormattingCoordinator.playground">
-      </FileRef>
-      <FileRef
          location = "group:UITextInputContext.playground">
       </FileRef>
       <FileRef
