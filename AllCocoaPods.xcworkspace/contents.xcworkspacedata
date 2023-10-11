@@ -977,9 +977,6 @@
          location = "group:UIVideoEditorController.playground">
       </FileRef>
       <FileRef
-         location = "group:UIVisualEffect.playground">
-      </FileRef>
-      <FileRef
          location = "group:UIVisualEffectView.playground">
       </FileRef>
       <FileRef
@@ -990,24 +987,6 @@
       </FileRef>
       <FileRef
          location = "group:UIWindowScene.playground">
-      </FileRef>
-      <FileRef
-         location = "group:UIWindowSceneActivationConfiguration.playground">
-      </FileRef>
-      <FileRef
-         location = "group:UIWindowSceneDragInteraction.playground">
-      </FileRef>
-      <FileRef
-         location = "group:UIWindowSceneGeometry.playground">
-      </FileRef>
-      <FileRef
-         location = "group:UIWindowScenePlacement.playground">
-      </FileRef>
-      <FileRef
-         location = "group:UIWindowSceneProminentPlacement.playground">
-      </FileRef>
-      <FileRef
-         location = "group:UIWindowSceneStandardPlacement.playground">
       </FileRef>
    </Group>
    <Group
