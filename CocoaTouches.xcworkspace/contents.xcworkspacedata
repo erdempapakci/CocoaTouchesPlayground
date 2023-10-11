@@ -1,0 +1,1002 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "container:CI"
+      name = "CoreImage">
+      <FileRef
+         location = "group:CIAztecCodeDescriptor.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CIBarcodeDescriptor.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CIBlendKernel.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CIColor.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CIColorKernel.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CIContext.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CIDataMatrixCodeDescriptor.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CIDetector.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CIFaceFeature.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CIFeature.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CIFilter.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CIFilterGenerator.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CIFilterShape.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CIImage.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CIImageAccumulator.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CIImageProcessorKernel.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CIKernel.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CIRectangleFeature.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CIRenderDestination.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CITextFeature.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CIVector.playground">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:CAObjects"
+      name = "CoreAnimation">
+      <FileRef
+         location = "group:CAAnimation.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CAAnimationGroup.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CABasicAnimation.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CADisplayLink.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CAEAGLLayer.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CAEDRMetadata.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CAEmitterCell.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CAEmitterLayer.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CAGradientLayer.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CAKeyframeAnimation.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CALayer.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CAMediaTimingFunction.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CAMetalDisplayLink.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CAMetalLayer.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CAPropertyAnimation.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CARenderer.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CAReplicatorLayer.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CAScrollLayer.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CAShapeLayer.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CASpringAnimation.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CATextLayer.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CATiledLayer.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CATransaction.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CATransformLayer.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CATransition.playground">
+      </FileRef>
+      <FileRef
+         location = "group:CAValueFunction.playground">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "NextStep">
+      <FileRef
+         location = "group:NSObject/NSObject.playground">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "UI">
+      <FileRef
+         location = "group:UIObjects/UICollectionReusableView.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UICollectionViewCell.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UICollectionViewController.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UITableViewCell.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UITableViewController.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIViewController.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIView.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIAcceleration.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIAccessibilityCustomAction.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIAccessibilityCustomRotor.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIAccessibilityElement.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIAccessibilityLocationDescriptor.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIAction.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIActionSheet.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIActivity.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIActivityIndicatorView.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIActivityItemProvider.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIActivityItemsConfiguration.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIActivityViewController.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIAlertAction.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIAlertController.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIAlertView.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIApplication.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIApplicationShortcutItem.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIAttachmentBehavior.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIBackgroundConfiguration.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIBandSelectionInteraction.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIBarAppearance.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIBarButtonItem.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIBarButtonItemAppearance.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIBarButtonItemGroup.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIBarButtonItemStateAppearance.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIBarItem.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIBezierPath.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIBlurEffect.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIButton.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIButtonConfiguration.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UICalendarSelection.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UICalendarSelectionMultiDate.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UICalendarSelectionSingleDate.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UICalendarView.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UICalendarViewDecoration.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UICellAccessory.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UICellAccessoryCheckmark.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UICellAccessoryCustomView.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UICellAccessoryDelete.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UICellAccessoryDetail.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UICellAccessoryDisclosureIndicator.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UICellAccessoryInsert.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UICellAccessoryLabel.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UICellAccessoryMultiselect.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UICellAccessoryOutlineDisclosure.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UICellAccessoryPopUpMenu.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UICellAccessoryReorder.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UICellConfigurationState.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UICloudSharingController.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UICollectionLayoutListConfiguration.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UICollectionLayoutSectionOrthogonalScrollingProperties.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UICollectionViewCellRegistration.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UICollectionViewCompositionalLayout.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UICollectionViewDiffableDataSource.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UICollectionViewDiffableDataSourceReorderingHandlers.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UICollectionViewDiffableDataSourceSectionSnapshotHandlers.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UICollectionViewDropPlaceholder.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UICollectionViewDropProposal.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UICollectionViewFlowLayout.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UICollectionViewFlowLayoutInvalidationContext.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UICollectionViewFocusUpdateContext.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UICollectionViewLayout.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UICollectionViewLayoutAttributes.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UICollectionViewLayoutInvalidationContext.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UICollectionViewListCell.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UICollectionViewPlaceholder.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UICollectionViewSupplementaryRegistration.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UICollectionViewTransitionLayout.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UICollectionViewUpdateItem.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UICollisionBehavior.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIColor.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIColorPickerViewController.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIColorWell.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UICommand.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UICommandAlternate.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIContentUnavailableView.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIContextMenuConfiguration.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIContextMenuInteraction.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIContextualAction.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIControl.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UICubicTimingParameters.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIDatePicker.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIDeferredMenuElement.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIDevice.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIDictationPhrase.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIDocument.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIDocumentBrowserAction.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIDocumentBrowserTransitionController.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIDocumentBrowserViewController.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIDocumentInteractionController.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIDocumentMenuViewController.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIDocumentPickerExtensionViewController.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIDocumentPickerViewController.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIDocumentProperties.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIDocumentViewController.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIDragInteraction.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIDragItem.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIDragPreview.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIDropInteraction.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIDropProposal.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIDynamicAnimator.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIEditMenuConfiguration.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIEditMenuInteraction.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIEvent.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIEventAttribution.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIEventAttributionView.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIFeedbackGenerator.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIFieldBehavior.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIFindInteraction.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIFocusAnimationCoordinator.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIFocusDebugger.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIFocusEffect.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIFocusGuide.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIFocusUpdateContext.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIFont.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIFontDescriptor.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIFontMetrics.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIFontPickerViewController.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIGestureRecognizer.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIGraphicsImageRenderer.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIGravityBehavior.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIHoverLiftEffect.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIImage.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIImageAsset.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIImageConfiguration.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIImagePickerController.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIImageReader.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIImageView.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIIndirectScribbleInteraction.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIInputView.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIInputViewController.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIInterpolatingMotionEffect.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIKey.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIKeyboardLayoutGuide.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIKeyCommand.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UILabel.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UILargeContentViewerInteraction.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UILayoutGuide.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UILexicon.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIListContentView.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UILocalNotification.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UILongPressGestureRecognizer.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIManagedDocument.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIMarkupTextPrintFormatter.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIMenu.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIMenuController.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIMenuElement.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIMenuItem.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIMotionEffect.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UINavigationBar.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UINavigationController.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UINavigationItem.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIOpenURLContext.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIPageControl.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIPageControlProgress.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIPageViewController.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIPanGestureRecognizer.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIPasteboard.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIPasteConfiguration.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIPasteControl.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIPasteControlConfiguration.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIPencilInteraction.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIPercentDrivenInteractiveTransition.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIPickerView.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIPinchGestureRecognizer.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIPointerAccessory.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIPointerEffect.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIPointerHighlightEffect.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIPointerHoverEffect.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIPointerInteraction.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIPointerLiftEffect.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIPointerLockState.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIPointerRegion.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIPointerRegionRequest.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIPointerShape.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIPointerStyle.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIPopoverBackgroundView.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIPopoverController.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIPopoverPresentationController.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIPresentationController.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIPreviewAction.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIPrinter.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIPrinterPickerController.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIPrintInteractionController.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIPrintPaper.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIPrintServiceExtension.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIProgressView.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIPushBehavior.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIReferenceLibraryViewController.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIRefreshControl.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIRegion.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIResolvedShape.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIResponder.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIRotationGestureRecognizer.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIScene.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UISceneActivationConditions.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UISceneConfiguration.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UISceneOpenURLOptions.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UISceneSession.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UISceneSessionActivationRequest.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UISceneSizeRestrictions.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIScreen.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIScreenMode.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIScreenshotService.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIScrollView.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UISearchBar.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UISearchController.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UISearchDisplayController.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UISearchTextField.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UISearchToken.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UISegmentedControl.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIShape.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIShapeResolutionContext.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UISheetPresentationController.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UISlider.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UISnapBehavior.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UISplitViewController.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UISpringLoadedInteraction.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIStackView.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIStatusBarManager.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIStepper.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIStoryboard.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIStoryboardSegue.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UISwipeGestureRecognizer.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UISwitch.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UITabBar.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UITabBarController.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UITabBarItem.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UITableView.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UITableViewDiffableDataSource.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UITableViewHeaderFooterView.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UITableViewPlaceholder.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UITableViewRowAction.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UITapGestureRecognizer.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UITargetedDragPreview.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UITextChecker.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UITextDropProposal.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UITextField.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UITextInputContext.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UITextInteraction.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UITextItem.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UITextItemMenuPreview.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UITextPlaceholder.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UITextSearchOptions.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UITextView.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIToolbar.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIToolbarAppearance.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIToolTipInteraction.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UITouch.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UITrackingLayoutGuide.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UITraitAccessibilityContrast.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UITraitCollection.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UITraitDisplayScale.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UITraitForceTouchCapability.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UITraitHorizontalSizeClass.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UITraitLayoutDirection.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UITraitLegibilityWeight.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UITraitPreferredContentSizeCategory.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UITraitSceneCaptureState.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UITraitUserInterfaceLevel.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIUserNotificationAction.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIUserNotificationCategory.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIUserNotificationSettings.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIVibrancyEffect.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIVideoEditorController.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIVisualEffectView.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIWebView.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIWindow.playground">
+      </FileRef>
+      <FileRef
+         location = "group:UIObjects/UIWindowScene.playground">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "Accessibility">
+      <FileRef
+         location = "group:AXObjects/AXCategoricalDataAxisDescriptor.playground">
+      </FileRef>
+      <FileRef
+         location = "group:AXObjects/AXBrailleMap.playground">
+      </FileRef>
+   </Group>
+</Workspace>
