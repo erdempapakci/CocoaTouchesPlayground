@@ -157,277 +157,277 @@
          location = "group:NSObject/NSObject.playground">
       </FileRef>
       <FileRef
-         location = "group:NSArray.playground">
+         location = "group:NSObject/NSArray.playground">
       </FileRef>
       <FileRef
-         location = "group:NSAssertionHandler.playground">
+         location = "group:NSObject/NSAssertionHandler.playground">
       </FileRef>
       <FileRef
-         location = "group:NSAttributedString.playground">
+         location = "group:NSObject/NSAttributedString.playground">
       </FileRef>
       <FileRef
-         location = "group:NSBlockOperation.playground">
+         location = "group:NSObject/NSBlockOperation.playground">
       </FileRef>
       <FileRef
-         location = "group:NSBundle.playground">
+         location = "group:NSObject/NSBundle.playground">
       </FileRef>
       <FileRef
-         location = "group:NSCache.playground">
+         location = "group:NSObject/NSCache.playground">
       </FileRef>
       <FileRef
-         location = "group:NSCachedURLResponse.playground">
+         location = "group:NSObject/NSCachedURLResponse.playground">
       </FileRef>
       <FileRef
-         location = "group:NSCalendar.playground">
+         location = "group:NSObject/NSCalendar.playground">
       </FileRef>
       <FileRef
-         location = "group:NSCharacterSet.playground">
+         location = "group:NSObject/NSCharacterSet.playground">
       </FileRef>
       <FileRef
-         location = "group:NSCoder.playground">
+         location = "group:NSObject/NSCoder.playground">
       </FileRef>
       <FileRef
-         location = "group:NSCollectionLayoutAnchor.playground">
+         location = "group:NSObject/NSCollectionLayoutAnchor.playground">
       </FileRef>
       <FileRef
-         location = "group:NSCollectionLayoutDimension.playground">
+         location = "group:NSObject/NSCollectionLayoutDimension.playground">
       </FileRef>
       <FileRef
-         location = "group:NSCollectionLayoutGroup.playground">
+         location = "group:NSObject/NSCollectionLayoutGroup.playground">
       </FileRef>
       <FileRef
-         location = "group:NSCollectionLayoutItem.playground">
+         location = "group:NSObject/NSCollectionLayoutItem.playground">
       </FileRef>
       <FileRef
-         location = "group:NSComparisonPredicate.playground">
+         location = "group:NSObject/NSComparisonPredicate.playground">
       </FileRef>
       <FileRef
-         location = "group:NSCondition.playground">
+         location = "group:NSObject/NSCondition.playground">
       </FileRef>
       <FileRef
-         location = "group:NSData.playground">
+         location = "group:NSObject/NSData.playground">
       </FileRef>
       <FileRef
-         location = "group:NSDate.playground">
+         location = "group:NSObject/NSDate.playground">
       </FileRef>
       <FileRef
-         location = "group:NSDateComponents.playground">
+         location = "group:NSObject/NSDateComponents.playground">
       </FileRef>
       <FileRef
-         location = "group:NSDateFormatter.playground">
+         location = "group:NSObject/NSDateFormatter.playground">
       </FileRef>
       <FileRef
-         location = "group:NSDateInterval.playground">
+         location = "group:NSObject/NSDateInterval.playground">
       </FileRef>
       <FileRef
-         location = "group:NSDictionary.playground">
+         location = "group:NSObject/NSDictionary.playground">
       </FileRef>
       <FileRef
-         location = "group:NSDiffableDataSourceSnapshot.playground">
+         location = "group:NSObject/NSDiffableDataSourceSnapshot.playground">
       </FileRef>
       <FileRef
-         location = "group:NSDimension.playground">
+         location = "group:NSObject/NSDimension.playground">
       </FileRef>
       <FileRef
-         location = "group:NSEnumerator.playground">
+         location = "group:NSObject/NSEnumerator.playground">
       </FileRef>
       <FileRef
-         location = "group:NSError.playground">
+         location = "group:NSObject/NSError.playground">
       </FileRef>
       <FileRef
-         location = "group:NSException.playground">
+         location = "group:NSObject/NSException.playground">
       </FileRef>
       <FileRef
-         location = "group:NSExpression.playground">
+         location = "group:NSObject/NSExpression.playground">
       </FileRef>
       <FileRef
-         location = "group:NSFileAccessIntent.playground">
+         location = "group:NSObject/NSFileAccessIntent.playground">
       </FileRef>
       <FileRef
-         location = "group:NSFileCoordinator.playground">
+         location = "group:NSObject/NSFileCoordinator.playground">
       </FileRef>
       <FileRef
-         location = "group:NSFileHandle.playground">
+         location = "group:NSObject/NSFileHandle.playground">
       </FileRef>
       <FileRef
-         location = "group:NSFileManager.playground">
+         location = "group:NSObject/NSFileManager.playground">
       </FileRef>
       <FileRef
-         location = "group:NSFileProviderDomain.playground">
+         location = "group:NSObject/NSFileProviderDomain.playground">
       </FileRef>
       <FileRef
-         location = "group:NSFileSecurity.playground">
+         location = "group:NSObject/NSFileSecurity.playground">
       </FileRef>
       <FileRef
-         location = "group:NSFormatter.playground">
+         location = "group:NSObject/NSFormatter.playground">
       </FileRef>
       <FileRef
-         location = "group:NSHTTPCookie.playground">
+         location = "group:NSObject/NSHTTPCookie.playground">
       </FileRef>
       <FileRef
-         location = "group:NSIndexPath.playground">
+         location = "group:NSObject/NSIndexPath.playground">
       </FileRef>
       <FileRef
-         location = "group:NSInflectionRule.playground">
+         location = "group:NSObject/NSInflectionRule.playground">
       </FileRef>
       <FileRef
-         location = "group:NSInvocation.playground">
+         location = "group:NSObject/NSInvocation.playground">
       </FileRef>
       <FileRef
-         location = "group:NSItemProvider.playground">
+         location = "group:NSObject/NSItemProvider.playground">
       </FileRef>
       <FileRef
-         location = "group:NSKeyedArchiver.playground">
+         location = "group:NSObject/NSKeyedArchiver.playground">
       </FileRef>
       <FileRef
-         location = "group:NSLayoutAnchor.playground">
+         location = "group:NSObject/NSLayoutAnchor.playground">
       </FileRef>
       <FileRef
-         location = "group:NSLayoutConstraint.playground">
+         location = "group:NSObject/NSLayoutConstraint.playground">
       </FileRef>
       <FileRef
-         location = "group:NSLengthFormatter.playground">
+         location = "group:NSObject/NSLengthFormatter.playground">
       </FileRef>
       <FileRef
-         location = "group:NSLocale.playground">
+         location = "group:NSObject/NSLocale.playground">
       </FileRef>
       <FileRef
-         location = "group:NSLock.playground">
+         location = "group:NSObject/NSLock.playground">
       </FileRef>
       <FileRef
-         location = "group:NSMeasurement.playground">
+         location = "group:NSObject/NSMeasurement.playground">
       </FileRef>
       <FileRef
-         location = "group:NSMetadataItem.playground">
+         location = "group:NSObject/NSMetadataItem.playground">
       </FileRef>
       <FileRef
-         location = "group:NSMorphology.playground">
+         location = "group:NSObject/NSMorphology.playground">
       </FileRef>
       <FileRef
-         location = "group:NSMutableArray.playground">
+         location = "group:NSObject/NSMutableArray.playground">
       </FileRef>
       <FileRef
-         location = "group:NSMutableAttributedString.playground">
+         location = "group:NSObject/NSMutableAttributedString.playground">
       </FileRef>
       <FileRef
-         location = "group:NSNetService.playground">
+         location = "group:NSObject/NSNetService.playground">
       </FileRef>
       <FileRef
-         location = "group:NSNetServiceBrowser.playground">
+         location = "group:NSObject/NSNetServiceBrowser.playground">
       </FileRef>
       <FileRef
-         location = "group:NSNotificationCenter.playground">
+         location = "group:NSObject/NSNotificationCenter.playground">
       </FileRef>
       <FileRef
-         location = "group:NSOperationQueue.playground">
+         location = "group:NSObject/NSOperationQueue.playground">
       </FileRef>
       <FileRef
-         location = "group:NSOrderedSet.playground">
+         location = "group:NSObject/NSOrderedSet.playground">
       </FileRef>
       <FileRef
-         location = "group:NSPipe.playground">
+         location = "group:NSObject/NSPipe.playground">
       </FileRef>
       <FileRef
-         location = "group:NSPointerArray.playground">
+         location = "group:NSObject/NSPointerArray.playground">
       </FileRef>
       <FileRef
-         location = "group:NSPredicate.playground">
+         location = "group:NSObject/NSPredicate.playground">
       </FileRef>
       <FileRef
-         location = "group:NSProgress.playground">
+         location = "group:NSObject/NSProgress.playground">
       </FileRef>
       <FileRef
-         location = "group:NSProxy.playground">
+         location = "group:NSObject/NSProxy.playground">
       </FileRef>
       <FileRef
-         location = "group:NSPurgeableData.playground">
+         location = "group:NSObject/NSPurgeableData.playground">
       </FileRef>
       <FileRef
-         location = "group:NSRecursiveLock.playground">
+         location = "group:NSObject/NSRecursiveLock.playground">
       </FileRef>
       <FileRef
-         location = "group:NSRunLoop.playground">
+         location = "group:NSObject/NSRunLoop.playground">
       </FileRef>
       <FileRef
-         location = "group:NSScanner.playground">
+         location = "group:NSObject/NSScanner.playground">
       </FileRef>
       <FileRef
-         location = "group:NSSet.playground">
+         location = "group:NSObject/NSSet.playground">
       </FileRef>
       <FileRef
-         location = "group:NSShadow.playground">
+         location = "group:NSObject/NSShadow.playground">
       </FileRef>
       <FileRef
-         location = "group:NSSocketPort.playground">
+         location = "group:NSObject/NSSocketPort.playground">
       </FileRef>
       <FileRef
-         location = "group:NSSortDescriptor.playground">
+         location = "group:NSObject/NSSortDescriptor.playground">
       </FileRef>
       <FileRef
-         location = "group:NSStream.playground">
+         location = "group:NSObject/NSStream.playground">
       </FileRef>
       <FileRef
-         location = "group:NSString.playground">
+         location = "group:NSObject/NSString.playground">
       </FileRef>
       <FileRef
-         location = "group:NSSymbolAppearEffect.playground">
+         location = "group:NSObject/NSSymbolAppearEffect.playground">
       </FileRef>
       <FileRef
-         location = "group:NSSymbolEffect.playground">
+         location = "group:NSObject/NSSymbolEffect.playground">
       </FileRef>
       <FileRef
-         location = "group:NSTermOfAddress.playground">
+         location = "group:NSObject/NSTermOfAddress.playground">
       </FileRef>
       <FileRef
-         location = "group:NSTextAttachment.playground">
+         location = "group:NSObject/NSTextAttachment.playground">
       </FileRef>
       <FileRef
-         location = "group:NSTextContainer.playground">
+         location = "group:NSObject/NSTextContainer.playground">
       </FileRef>
       <FileRef
-         location = "group:NSTextElement.playground">
+         location = "group:NSObject/NSTextElement.playground">
       </FileRef>
       <FileRef
-         location = "group:NSTextList.playground">
+         location = "group:NSObject/NSTextList.playground">
       </FileRef>
       <FileRef
-         location = "group:NSTextParagraph.playground">
+         location = "group:NSObject/NSTextParagraph.playground">
       </FileRef>
       <FileRef
-         location = "group:NSThread.playground">
+         location = "group:NSObject/NSThread.playground">
       </FileRef>
       <FileRef
-         location = "group:NSTimer.playground">
+         location = "group:NSObject/NSTimer.playground">
       </FileRef>
       <FileRef
-         location = "group:NSTimeZone.playground">
+         location = "group:NSObject/NSTimeZone.playground">
       </FileRef>
       <FileRef
-         location = "group:NSUndoManager.playground">
+         location = "group:NSObject/NSUndoManager.playground">
       </FileRef>
       <FileRef
-         location = "group:NSUnit.playground">
+         location = "group:NSObject/NSUnit.playground">
       </FileRef>
       <FileRef
-         location = "group:NSURL.playground">
+         location = "group:NSObject/NSURL.playground">
       </FileRef>
       <FileRef
-         location = "group:NSURLCache.playground">
+         location = "group:NSObject/NSURLCache.playground">
       </FileRef>
       <FileRef
-         location = "group:NSUserActivity.playground">
+         location = "group:NSObject/NSUserActivity.playground">
       </FileRef>
       <FileRef
-         location = "group:NSUserDefaults.playground">
+         location = "group:NSObject/NSUserDefaults.playground">
       </FileRef>
       <FileRef
-         location = "group:NSUUID.playground">
+         location = "group:NSObject/NSUUID.playground">
       </FileRef>
       <FileRef
-         location = "group:NSXMLParser.playground">
+         location = "group:NSObject/NSXMLParser.playground">
       </FileRef>
       <FileRef
-         location = "group:NSXPCListener.playground">
+         location = "group:NSObject/NSXPCListener.playground">
       </FileRef>
    </Group>
    <Group
