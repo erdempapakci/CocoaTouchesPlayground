@@ -1,3 +1,4 @@
-import UIKit
-
-var greeting = "Hello, playground"
+/*
+ Deprecated ->
+ Instead, use UIAlertController with a preferredStyle of UIAlertController.Style.alert.
+ */
