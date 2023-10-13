@@ -1,3 +1,4 @@
 import UIKit
 
-var greeting = "Hello, playground"
+let netServiceBrowser = NetServiceBrowser()
+netServiceBrowser.searchForServices(ofType: "_http._tcp.", inDomain: "local.")
