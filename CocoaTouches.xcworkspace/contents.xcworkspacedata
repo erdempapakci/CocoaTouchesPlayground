@@ -391,9 +391,6 @@
          location = "group:NSObject/NSTextList.playground">
       </FileRef>
       <FileRef
-         location = "group:NSObject/NSTextParagraph.playground">
-      </FileRef>
-      <FileRef
          location = "group:NSObject/NSThread.playground">
       </FileRef>
       <FileRef
