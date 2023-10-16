@@ -524,9 +524,6 @@
          location = "group:UIObjects/UIBarButtonItemGroup.playground">
       </FileRef>
       <FileRef
-         location = "group:UIObjects/UIBarButtonItemStateAppearance.playground">
-      </FileRef>
-      <FileRef
          location = "group:UIObjects/UIBarItem.playground">
       </FileRef>
       <FileRef
@@ -540,9 +537,6 @@
       </FileRef>
       <FileRef
          location = "group:UIObjects/UIButtonConfiguration.playground">
-      </FileRef>
-      <FileRef
-         location = "group:UIObjects/UICalendarSelection.playground">
       </FileRef>
       <FileRef
          location = "group:UIObjects/UICalendarSelectionMultiDate.playground">

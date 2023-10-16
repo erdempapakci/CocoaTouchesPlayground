@@ -1,3 +1,10 @@
-import UIKit
-
-var greeting = "Hello, playground"
+/*
+ UTC: Coordinated Universal Time (UTC) is the primary time standard against which all other time zones are set. UTC is often referred to as "Greenwich Mean Time" (GMT). UTC does not observe daylight saving time.
+ Standard Time: Each time zone has a standard time, which is the local time without any adjustment for daylight saving time. For example, Eastern Standard Time (EST) in the United States is UTC-5.
+ Daylight Saving Time: Many regions around the world, especially in North America and Europe, observe daylight saving time (DST). During DST, the local time is adjusted forward by one hour in the spring and set back by one hour in the fall to make better use of natural daylight. For example, Eastern Daylight Time (EDT) in the United States is UTC-4 during DST.
+ Time Zone Names: Time zones are usually identified by their geographic names, such as "Eastern Time," "Central European Time," or "Japan Standard Time." They may also be identified by abbreviations like "EST" or "CET."
+ Time Zone Offset: The time zone offset is the difference in hours and minutes between a specific time zone and UTC. It's usually expressed as a positive or negative number. For example, UTC+2 represents a time zone that is two hours ahead of UTC, while UTC-7 represents a time zone that is seven hours behind UTC.
+ Time Zone Database: There's a comprehensive time zone database that tracks changes in time zone rules, including daylight saving time transitions, historical changes, and geographical boundaries. In the Unix world, this database is typically used for handling time zone information.
+ International Date Line: The International Date Line (IDL) is an imaginary line located along the 180th meridian in the Pacific Ocean. Crossing the IDL can change the date by one day.
+ Time Zone Conversion: Converting times between different time zones requires taking into account the time zone offset, daylight saving time rules, and the date. Various programming libraries and tools provide functions for performing these conversions.
+ */
