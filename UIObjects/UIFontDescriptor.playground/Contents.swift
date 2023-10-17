@@ -18,9 +18,7 @@ let fontDescriptor = UIFontDescriptor(fontAttributes: [
     .family: "Arial",              // Font family
     .face: "Italic",               // Font style
     .size: 18.0,                   // Font size
-    .traits: [
-        .symbolic: UIFontDescriptor.SymbolicTraits.traitBold // Bold
-    ]
+  
 ])
 
 // Create a font using the font descriptor

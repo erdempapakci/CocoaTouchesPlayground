@@ -4,4 +4,3 @@ import UIKit
 
 let fontMetrics = UIFontMetrics(forTextStyle: .headline)
 let headlineFont = fontMetrics.scaledFont(for: .systemFont(ofSize: 24))
-titleLabel.font = headlineFont
